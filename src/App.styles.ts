@@ -48,7 +48,7 @@ export const Form = styled.form`
             }  
             
             fieldset{
-                border: solid 1px #000 !important;
+                border: solid 1px #a9a9a9 !important;
             }
         }
     }
@@ -62,5 +62,6 @@ export const Form = styled.form`
 
     .required{
         color: #AF2120;
+        font-size: 13px ;
     }
 `
